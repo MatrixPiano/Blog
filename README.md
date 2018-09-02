@@ -1,38 +1,10 @@
-# Adam Blog is a minimal clear theme for Jekyll
+# jekyllDecent
+[![Build Status](https://travis-ci.org/jwillmer/jekyllDecent.svg?branch=gh-pages)](https://travis-ci.org/jwillmer/jekyllDecent) 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
+[![Release v1.1.9](https://img.shields.io/badge/release-v1.1.9-blue.svg)](https://github.com/jwillmer/jekyllDecent/releases/tag/1.1.9)
 
-![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
+This is a blog template for a static site generator named [Jekyll](https://jekyllrb.com/docs/home/) based on a [Ghost](https://ghost.org) template named [Decent](https://github.com/serenader2014/decent). 
 
-## Demo
+Installation instructions, features, previews and more can be found in the **[GitHub generated blog](https://jwillmer.github.io/jekyllDecent)**. This blog is automatically generated out of the source code in the `gh-pages` branch. If you like to see the theme in production have a look at [jwillmer.de](https://jwillmer.de).
 
-Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
-
-The main page would look like this:
-
-![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [MailChimp](https://mailchimp.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-## License
-
-GNU General Public License v3.0
-
-## Donate
-
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
+[![](https://raw.githubusercontent.com/jwillmer/jekyllDecent/gh-pages/media/img/2016-06-08-Readme-front-page-previewe.jpg)](https://jwillmer.github.io/jekyllDecent)

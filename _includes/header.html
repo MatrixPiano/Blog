@@ -1,20 +1,27 @@
-<header class="main-header">
-  <div class="wrapper">
-    <div class="header-flex">
-      <div class="menu-icon-container">
-        <span class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
-      </div>
-      <nav class="main-nav">
-        <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
-        <ul>
-          <li><a href="{{site.baseurl}}/">Blog</a></li>
-          <li><a href="{{site.baseurl}}/about">About</a></li>
-        </ul>
-      </nav>
-      <p class="logo"><a href="{{site.baseurl}}/">{{ site.author }}</a></p>
-      <div class="search-icon-container">
-        <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
-      </div>
+{% if page.cover %}
+{% assign cover = page.cover %}
+{% elsif site.cover %}
+{% assign cover = site.cover %}
+{% endif %}
+
+<header class="main-header detail-page image-bg {% if cover %} has-cover" style="background-image: url({{ cover | absolute_url }})" {% else %} no-cover" {% endif %}>
+    <h1 class="page-title"><a href="{{ "/" | absolute_url }}" title="{{ site.title }}">{{ site.title }}</a></h1>
+    <h2 class="page-description">{{ site.subtitle }}</h2>
+    <div class="nav">
+            <a class="page-link" href="{{ "/" | absolute_url }}" title="Home">Home</a>
+
+            {% assign pages = site.pages | sort:"weight"  %}
+            {% for my_page in pages %}
+
+            {% if my_page.menutitle %}
+            {% assign title = my_page.menutitle %}
+            {% elsif site.title %}
+            {% assign title = my_page.title %}
+            {% endif %}
+
+            {% if title and my_page.visible != false %}
+            <a class="page-link" href="{{ my_page.url | absolute_url }}" title="{{ title }}">{{ title }}</a>
+            {% endif %}
+            {% endfor %}
     </div>
-  </div>
-</header> <!-- End Header -->
+</header>
