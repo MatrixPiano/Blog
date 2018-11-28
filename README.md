@@ -1,10 +1,11 @@
-# jekyllDecent
-[![Build Status](https://travis-ci.org/jwillmer/jekyllDecent.svg?branch=gh-pages)](https://travis-ci.org/jwillmer/jekyllDecent) 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
-[![Release v1.1.9](https://img.shields.io/badge/release-v1.1.9-blue.svg)](https://github.com/jwillmer/jekyllDecent/releases/tag/1.1.9)
+# Welcome to Matrix Blog
 
-This is a blog template for a static site generator named [Jekyll](https://jekyllrb.com/docs/home/) based on a [Ghost](https://ghost.org) template named [Decent](https://github.com/serenader2014/decent). 
+	
+##Book Notes
+### Clean Architecture
+![blockchain](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543341018485&di=13d37cde1cc74903a0d50635e34f9e06&imgtype=0&src=http%3A%2F%2Fstatic.chayuqing.com%2F205cb74ece5c4af51cb57bad690ecb53.jpg%3Fwatermark%2F1%2Fimage%2FaHR0cDovL3d3dy5pamlhbmRhby5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTUvMDMv6Zq8MS5wbmc%3D%2Fdissolve%2F100%2Fgravity%2FCenter%2Fdx%2F1%2Fdy "区块链")
 
-Installation instructions, features, previews and more can be found in the **[GitHub generated blog](https://jwillmer.github.io/jekyllDecent)**. This blog is automatically generated out of the source code in the `gh-pages` branch. If you like to see the theme in production have a look at [jwillmer.de](https://jwillmer.de).
 
-[![](https://raw.githubusercontent.com/jwillmer/jekyllDecent/gh-pages/media/img/2016-06-08-Readme-front-page-previewe.jpg)](https://jwillmer.github.io/jekyllDecent)
+
+
+     
