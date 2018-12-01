@@ -1,11 +1,15 @@
 # Welcome to Matrix Blog
 </br>
-## Book Notes
+
+
+1. BOOK NOTES
 </br>
-**Clean Architecture: Robert C.Martin[A]**
+  Clean Architecture: Robert C.Martin[A]</br>
+</br> 
+
+
+2. OCHESTRATOR
 </br>
-## Ochestrator
-</br>
-**ONAP: LFN, Open Network Automation Platform**</br> 
-**OSM: ETSI, Open Source MANO**</br>
+ONAP: LFN, Open Network Automation Platform</br> 
+OSM: ETSI, Open Source MANO</br>
      
