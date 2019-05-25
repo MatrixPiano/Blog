@@ -2,16 +2,16 @@
 
 #### Book Notes
 
-Clean Architecture
-Clean Code
+ - Clean Architecture
+ - Clean Code
 
 ----------
 
-#### Languange
+#### Language
 
-[YAML](https://yaml.org): YAML Ain't Markup Language, a human friendly data serialization standard for all programming languages.
-[JSON](http://www.json.org): JavaScript Object Notation, a lightweight data-interchange format.
-[TOSCA](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca#technical): Topology and Orchestration Specification for Cloud Applications
+ - [JSON](http://www.json.org): JavaScript Object Notation, a lightweight data-interchange format.
+ - [YAML](https://yaml.org): YAML Ain't Markup Language, a human friendly data serialization standard for all programming languages.
+ - [TOSCA](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca#technical): Topology and Orchestration Specification for Cloud Applications
 
 ----------
 
